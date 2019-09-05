@@ -7,7 +7,7 @@
 [![npm](https://img.shields.io/badge/npm-3.8.6-blue.svg)](https://www.npmjs.com/)
 [![Platforms](https://img.shields.io/badge/platform-windows%20%7C%20osx%20%7C%20linux-lightgray.svg)]()
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://opensource.org/licenses/MIT)
-[![Viewer](https://img.shields.io/badge/Viewer-v6.4-green.svg)](https://forge.autodesk.com/en/docs/viewer/v6/developers_guide/overview/)
+[![Viewer](https://img.shields.io/badge/Viewer-v7.*-green.svg)](https://forge.autodesk.com/en/docs/viewer/v7/developers_guide/overview/)
 
 # Description
 
