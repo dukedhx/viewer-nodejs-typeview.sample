@@ -49,6 +49,6 @@
   },
   "dependencies": {
     "express": "^4.16.4",
-    "forge-apis": "^0.4.4"
+    "forge-apis": "^0.9.0"
   }
 }
